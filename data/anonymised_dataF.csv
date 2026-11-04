@@ -1,0 +1,197 @@
+name,sex,evote,zip,education,citizenship,marital_status,party,age_group
+*,Female,0,2***,Medium,Danish,Never married,Green,18-29
+*,Female,0,2***,Medium,Danish,Never married,Red,45-64
+*,Female,1,2***,High,Danish,Never married,Green,45-64
+*,,,2***,High,,,Red,65 or older
+*,Male,0,2***,Medium,Danish,Never married,Green,30-44
+*,Female,0,2***,High,Danish,Never married,Green,30-44
+*,Male,0,2***,High,Danish,Never married,Green,18-29
+*,Male,0,2***,Medium,Danish,Ever married,Red,45-64
+*,Female,0,2***,High,Danish,Never married,Red,45-64
+*,Male,0,2***,Medium,Danish,Ever married,Green,45-64
+*,Male,0,2***,Medium,Danish,Ever married,Green,45-64
+*,Male,0,2***,High,Danish,Ever married,Red,65 or older
+*,Female,0,2***,Low,Danish,Ever married,Green,45-64
+*,Female,1,2***,High,Danish,Never married,Red,30-44
+*,Female,1,2***,High,,,Red,30-44
+*,Female,0,2***,High,Danish,Ever married,Green,30-44
+*,Male,0,2***,Low,Danish,Never married,Green,45-64
+*,Male,0,2***,High,Danish,Never married,Green,30-44
+*,Male,0,2***,Medium,Danish,Ever married,Green,65 or older
+*,Male,1,2***,Medium,Danish,Ever married,Green,45-64
+*,Female,0,2***,Low,Danish,Never married,Green,18-29
+*,Male,1,2***,Low,Danish,Ever married,Green,30-44
+*,Male,0,2***,Medium,Danish,Ever married,Green,65 or older
+*,Male,1,2***,High,Danish,Ever married,Red,45-64
+*,Male,0,2***,Medium,Danish,Ever married,Green,45-64
+*,Female,1,2***,Low,Danish,Ever married,Green,45-64
+*,Male,1,2***,Medium,Danish,Ever married,Green,30-44
+*,Male,0,2***,Medium,Danish,Never married,Green,45-64
+*,Female,0,2***,Low,Danish,Never married,Green,18-29
+*,Male,0,2***,Medium,Danish,Never married,Green,18-29
+*,Female,0,2***,High,Danish,Ever married,Red,45-64
+*,Male,0,2***,Medium,Danish,Never married,Red,18-29
+*,Male,0,2***,Medium,Danish,Ever married,Red,65 or older
+*,Female,0,2***,Medium,Danish,Ever married,Green,45-64
+*,Female,0,2***,Medium,Danish,Ever married,Green,65 or older
+*,Female,0,2***,High,Danish,Ever married,Red,65 or older
+*,,1,2***,Medium,,,Green,18-29
+*,Male,0,2***,Medium,Danish,Ever married,Green,65 or older
+*,Female,0,2***,High,non-danish,,Red,45-64
+*,Female,0,2***,Medium,Danish,Ever married,Green,45-64
+*,Female,0,2***,Medium,Danish,Never married,Green,30-44
+*,Female,1,2***,Medium,,,Red,65 or older
+*,Female,0,2***,Medium,,,Red,65 or older
+*,Male,0,2***,High,Danish,Never married,Green,45-64
+*,Female,0,2***,Medium,Danish,Ever married,Green,45-64
+*,,1,2***,Medium,,,Green,45-64
+*,Male,0,2***,High,Danish,Ever married,Red,65 or older
+*,Female,0,2***,Medium,Danish,Ever married,Red,45-64
+*,Male,0,2***,High,Danish,Ever married,Green,65 or older
+*,Male,0,2***,Low,Danish,Ever married,Red,45-64
+*,Female,1,2***,High,Danish,Never married,Red,30-44
+*,Male,0,2***,Medium,Danish,Ever married,Green,30-44
+*,Female,0,2***,Medium,Danish,Ever married,Red,45-64
+*,Male,1,2***,Medium,Danish,Ever married,Green,65 or older
+*,,1,2***,High,,,Red,45-64
+*,Male,1,2***,High,,,Green,30-44
+*,Female,1,2***,Medium,Danish,Ever married,Green,45-64
+*,Male,1,2***,Low,non-danish,Ever married,Invalid vote,45-64
+*,Female,1,2***,High,Danish,Never married,Green,18-29
+*,Female,1,2***,Medium,Danish,Never married,Red,45-64
+*,Male,0,2***,Medium,Danish,Never married,Green,18-29
+*,Male,0,2***,Medium,Danish,Ever married,Green,30-44
+*,Female,0,2***,High,Danish,Never married,Green,18-29
+*,Male,0,2***,Low,Danish,Ever married,Green,65 or older
+*,Female,0,2***,Medium,Danish,Ever married,Green,30-44
+*,Male,0,2***,Medium,Danish,Never married,Green,18-29
+*,Male,0,2***,High,Danish,Ever married,Green,45-64
+*,Female,1,2***,Medium,Danish,Never married,Green,30-44
+*,Male,1,2***,High,Danish,Ever married,Invalid vote,65 or older
+*,Male,1,2***,Medium,,,Green,30-44
+*,Female,1,2***,Low,Danish,Ever married,Green,45-64
+*,Male,1,2***,Medium,Danish,Ever married,Green,65 or older
+*,Female,0,2***,Medium,Danish,Ever married,Green,30-44
+*,Male,0,2***,Low,Danish,Never married,Green,30-44
+*,Female,0,2***,High,Danish,Never married,Red,18-29
+*,,1,2***,High,,,Green,45-64
+*,Male,0,2***,High,Danish,Ever married,Red,65 or older
+*,Male,0,2***,High,Danish,Ever married,Red,30-44
+*,Female,1,2***,Low,Danish,Never married,Green,18-29
+*,Male,0,2***,Low,Danish,Ever married,Green,65 or older
+*,Female,0,2***,Medium,Danish,Never married,Red,45-64
+*,,1,2***,High,,,Green,18-29
+*,Male,0,2***,High,Danish,Ever married,Red,30-44
+*,Female,0,2***,Medium,Danish,Ever married,Green,30-44
+*,Male,1,2***,High,Danish,Ever married,Red,65 or older
+*,Male,0,2***,Medium,Danish,Ever married,Green,65 or older
+*,Female,1,2***,Medium,Danish,Never married,Green,30-44
+*,,,,Low,,,Green,
+*,Female,1,2***,Medium,Danish,Never married,Green,18-29
+*,Female,0,2***,High,Danish,Ever married,Red,45-64
+*,Female,0,2***,Medium,Danish,Ever married,Green,45-64
+*,,,2***,Low,,,Green,65 or older
+*,Female,0,2***,Medium,Danish,Never married,Green,30-44
+*,Male,0,2***,Medium,Danish,Ever married,Green,45-64
+*,Female,1,2***,Low,,,Green,65 or older
+*,Male,0,2***,High,Danish,Never married,Red,45-64
+*,Female,0,2***,Medium,Danish,Never married,Green,18-29
+*,Female,0,2***,High,Danish,Ever married,Red,30-44
+*,Male,1,2***,High,non-danish,Ever married,Red,45-64
+*,Female,0,2***,Low,Danish,Ever married,Green,45-64
+*,Female,1,2***,High,Danish,Ever married,Green,45-64
+*,,,2***,High,,,Red,65 or older
+*,Female,1,2***,High,Danish,Never married,Red,30-44
+*,,,,High,,,Green,
+*,Female,0,2***,Low,non-danish,,Red,45-64
+*,,,,High,,,Green,
+*,Female,0,2***,Medium,Danish,Ever married,Green,45-64
+*,Female,0,2***,Low,,,Green,65 or older
+*,Male,0,2***,Low,Danish,Never married,Green,45-64
+*,Female,1,2***,High,Danish,Ever married,Red,45-64
+*,Female,0,2***,Medium,Danish,Ever married,Green,45-64
+*,,,,Medium,,,Invalid vote,
+*,Male,1,2***,Medium,non-danish,Ever married,Green,45-64
+*,Female,0,2***,Medium,Danish,Never married,Red,45-64
+*,Female,0,2***,High,Danish,Never married,Green,30-44
+*,Male,0,2***,Medium,Danish,Ever married,Green,65 or older
+*,Male,0,2***,High,Danish,Ever married,Green,65 or older
+*,Female,1,2***,Low,Danish,Never married,Green,18-29
+*,Male,0,2***,High,Danish,Never married,Green,18-29
+*,Female,0,2***,High,Danish,Ever married,Red,45-64
+*,Male,0,2***,Medium,Danish,Ever married,Green,65 or older
+*,Male,1,2***,High,,,Green,30-44
+*,Male,0,2***,Medium,Danish,Never married,Green,45-64
+*,Male,1,2***,Low,Danish,Ever married,Green,30-44
+*,Female,0,2***,Medium,Danish,Never married,Green,30-44
+*,Female,0,2***,Medium,Danish,Ever married,Green,30-44
+*,Male,0,2***,High,Danish,Never married,Red,30-44
+*,,,,High,,,Green,
+*,Male,1,2***,Medium,Danish,Ever married,Green,30-44
+*,Male,0,2***,Medium,Danish,Ever married,Green,30-44
+*,Male,0,2***,High,Danish,Never married,Green,18-29
+*,Female,0,2***,High,Danish,Ever married,Red,45-64
+*,Female,0,2***,Low,Danish,Ever married,Green,30-44
+*,Female,0,2***,Medium,Danish,Ever married,Green,45-64
+*,Male,0,2***,High,Danish,Ever married,Red,45-64
+*,Male,1,2***,Low,Danish,Ever married,Green,65 or older
+*,Female,1,2***,Medium,Danish,Ever married,Green,45-64
+*,Male,0,2***,Low,Danish,Ever married,Red,45-64
+*,Female,0,2***,High,Danish,Ever married,Red,45-64
+*,Male,0,2***,Medium,Danish,Ever married,Red,65 or older
+*,,,,High,,,Green,
+*,Female,0,2***,Low,Danish,Ever married,Green,45-64
+*,Female,0,2***,High,Danish,Ever married,Red,65 or older
+*,Female,0,2***,High,Danish,Ever married,Green,30-44
+*,Male,0,2***,Low,Danish,Never married,Green,18-29
+*,Female,0,2***,High,non-danish,,Green,45-64
+*,Female,0,2***,Low,Danish,Ever married,Red,65 or older
+*,Female,0,2***,Low,Danish,Ever married,Green,30-44
+*,Male,1,2***,Medium,Danish,Ever married,Green,45-64
+*,Female,1,2***,Medium,Danish,Ever married,Green,45-64
+*,Male,1,2***,High,Danish,Ever married,Red,30-44
+*,,1,2***,Low,,,Green,18-29
+*,Male,1,2***,Low,Danish,Ever married,Red,65 or older
+*,Male,1,2***,Medium,Danish,Ever married,Green,45-64
+*,Female,1,2***,High,Danish,Ever married,Red,45-64
+*,Male,0,2***,Medium,Danish,Never married,Red,45-64
+*,Male,0,2***,High,Danish,Ever married,Green,45-64
+*,Female,0,2***,Low,Danish,Ever married,Green,30-44
+*,Female,1,2***,High,,,Red,30-44
+*,,1,2***,Medium,,,Red,45-64
+*,Male,1,2***,Low,non-danish,Ever married,Red,45-64
+*,Male,0,2***,High,Danish,Ever married,Green,45-64
+*,Female,1,2***,Medium,Danish,Never married,Red,45-64
+*,Female,0,2***,High,Danish,Ever married,Red,30-44
+*,Female,0,2***,High,Danish,Ever married,Red,45-64
+*,Female,1,2***,Medium,Danish,Ever married,Green,45-64
+*,Female,0,2***,High,Danish,Ever married,Red,65 or older
+*,Male,0,2***,Medium,Danish,Ever married,Green,65 or older
+*,Female,0,2***,Medium,Danish,Ever married,Green,30-44
+*,Female,0,2***,Low,Danish,Ever married,Green,65 or older
+*,Female,1,2***,Medium,,,Invalid vote,65 or older
+*,Female,0,2***,High,Danish,Ever married,Red,30-44
+*,Male,0,2***,Low,Danish,Never married,Green,18-29
+*,Female,0,2***,Low,Danish,Never married,Red,30-44
+*,Female,0,2***,Medium,,,Invalid vote,65 or older
+*,Male,0,2***,Medium,Danish,Never married,Green,45-64
+*,Female,0,2***,High,Danish,Ever married,Red,30-44
+*,Female,0,2***,High,Danish,Ever married,Red,45-64
+*,Male,0,2***,Medium,Danish,Never married,Green,45-64
+*,Female,0,2***,Low,Danish,Ever married,Red,65 or older
+*,Female,0,2***,Medium,Danish,Ever married,Green,45-64
+*,Female,0,2***,Medium,Danish,Never married,Green,18-29
+*,Male,0,2***,Low,Danish,Never married,Green,45-64
+*,Male,0,2***,Medium,Danish,Ever married,Green,45-64
+*,Male,1,2***,High,Danish,Ever married,Red,45-64
+*,Male,0,2***,High,Danish,Ever married,Red,65 or older
+*,Male,0,2***,Medium,Danish,Ever married,Green,30-44
+*,Male,0,2***,High,Danish,Ever married,Red,45-64
+*,,,2***,High,,,Green,65 or older
+*,Female,0,2***,High,Danish,Never married,Green,18-29
+*,Male,0,2***,Medium,Danish,Ever married,Red,45-64
+*,Male,0,2***,Medium,Danish,Ever married,Green,65 or older
+*,Male,1,2***,Medium,Danish,Ever married,Green,45-64
+*,Female,0,2***,Medium,Danish,Ever married,Green,45-64
+*,Female,1,2***,High,,,Invalid vote,30-44
+*,Male,1,2***,Medium,Danish,Ever married,Red,30-44
