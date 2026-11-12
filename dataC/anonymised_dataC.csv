@@ -1,0 +1,201 @@
+sex,age_group,education,evote,party
+Female,60+,1 Primary,0,Red
+Male,20-39,2 Upper secondary/VET,0,Green
+Female,40-59,3 Short/medium higher,0,Red
+Male,20-39,2 Upper secondary/VET,0,Green
+Male,20-39,2 Upper secondary/VET,0,Green
+Male,40-59,2 Upper secondary/VET,0,Green
+Female,60+,2 Upper secondary/VET,0,Green
+Male,20-39,2 Upper secondary/VET,0,Green
+Female,20-39,2 Upper secondary/VET,0,Green
+Female,20-39,4 Long higher (Master/PhD),0,Red
+Female,20-39,4 Long higher (Master/PhD),0,Red
+Female,40-59,2 Upper secondary/VET,0,Green
+Female,60+,2 Upper secondary/VET,1,Red
+Male,60+,2 Upper secondary/VET,0,Green
+Male,20-39,4 Long higher (Master/PhD),0,Green
+Female,60+,2 Upper secondary/VET,0,Green
+Female,60+,1 Primary,0,Red
+Male,60+,2 Upper secondary/VET,1,Green
+Male,20-39,3 Short/medium higher,1,Green
+Male,40-59,1 Primary,0,Green
+Male,40-59,1 Primary,1,Green
+Female,60+,2 Upper secondary/VET,1,Red
+Female,60+,3 Short/medium higher,0,Red
+Male,40-59,4 Long higher (Master/PhD),0,Red
+Female,40-59,2 Upper secondary/VET,0,Green
+Female,60+,2 Upper secondary/VET,0,Red
+Male,20-39,3 Short/medium higher,1,Red
+Female,20-39,1 Primary,1,Green
+Male,20-39,2 Upper secondary/VET,1,Green
+Female,40-59,2 Upper secondary/VET,0,Green
+Male,60+,1 Primary,0,Green
+Female,20-39,2 Upper secondary/VET,0,Green
+Male,40-59,2 Upper secondary/VET,0,Green
+Male,20-39,2 Upper secondary/VET,0,Green
+Female,40-59,2 Upper secondary/VET,0,Green
+Male,40-59,1 Primary,1,Red
+Female,40-59,1 Primary,0,Green
+Female,40-59,2 Upper secondary/VET,0,Red
+Female,20-39,3 Short/medium higher,0,Red
+Male,60+,1 Primary,0,Green
+Male,60+,1 Primary,0,Green
+Female,60+,3 Short/medium higher,1,Invalid vote
+Male,40-59,2 Upper secondary/VET,0,Green
+Female,60+,3 Short/medium higher,0,Red
+Female,40-59,3 Short/medium higher,0,Red
+Female,20-39,3 Short/medium higher,1,Green
+Female,40-59,2 Upper secondary/VET,1,Green
+Male,40-59,1 Primary,1,Red
+Female,40-59,1 Primary,0,Green
+Male,20-39,2 Upper secondary/VET,1,Green
+Male,40-59,1 Primary,1,Green
+Female,60+,3 Short/medium higher,0,Green
+Female,20-39,1 Primary,1,Green
+Male,40-59,2 Upper secondary/VET,0,Green
+Male,20-39,2 Upper secondary/VET,0,Green
+Male,20-39,2 Upper secondary/VET,1,Green
+Male,20-39,Not stated,0,Green
+Female,60+,4 Long higher (Master/PhD),1,Red
+Female,40-59,2 Upper secondary/VET,0,Green
+Male,60+,2 Upper secondary/VET,0,Red
+Female,20-39,1 Primary,0,Green
+Female,40-59,1 Primary,1,Green
+Male,40-59,3 Short/medium higher,0,Red
+Male,40-59,4 Long higher (Master/PhD),0,Green
+Male,40-59,4 Long higher (Master/PhD),0,Green
+Female,40-59,2 Upper secondary/VET,0,Green
+Male,20-39,3 Short/medium higher,0,Green
+Male,40-59,3 Short/medium higher,1,Red
+Male,60+,1 Primary,0,Green
+Male,40-59,3 Short/medium higher,0,Red
+Female,20-39,3 Short/medium higher,1,Green
+Male,20-39,2 Upper secondary/VET,0,Green
+Female,40-59,3 Short/medium higher,1,Red
+Male,60+,3 Short/medium higher,0,Red
+Female,40-59,2 Upper secondary/VET,0,Green
+Male,60+,3 Short/medium higher,1,Green
+Male,40-59,3 Short/medium higher,0,Red
+Female,20-39,3 Short/medium higher,1,Red
+Female,40-59,2 Upper secondary/VET,0,Green
+Male,20-39,2 Upper secondary/VET,1,Green
+Male,40-59,3 Short/medium higher,0,Green
+Male,20-39,4 Long higher (Master/PhD),0,Invalid vote
+Male,60+,3 Short/medium higher,1,Red
+Female,40-59,3 Short/medium higher,0,Green
+Male,40-59,4 Long higher (Master/PhD),0,Green
+Female,40-59,1 Primary,0,Red
+Male,60+,Not stated,0,Green
+Male,60+,3 Short/medium higher,0,Red
+Male,60+,2 Upper secondary/VET,0,Green
+Male,60+,3 Short/medium higher,1,Red
+Female,40-59,3 Short/medium higher,1,Green
+Male,40-59,2 Upper secondary/VET,1,Red
+Male,40-59,2 Upper secondary/VET,0,Green
+Male,60+,2 Upper secondary/VET,0,Green
+Male,20-39,3 Short/medium higher,1,Red
+Male,40-59,1 Primary,1,Green
+Male,20-39,2 Upper secondary/VET,1,Green
+Male,60+,3 Short/medium higher,0,Red
+Female,20-39,2 Upper secondary/VET,0,Green
+Male,60+,1 Primary,0,Green
+Male,60+,1 Primary,0,Green
+Male,20-39,1 Primary,0,Green
+Male,20-39,2 Upper secondary/VET,0,Green
+Male,40-59,3 Short/medium higher,0,Green
+Male,40-59,1 Primary,1,Green
+Male,60+,2 Upper secondary/VET,0,Red
+Male,40-59,1 Primary,0,Green
+Male,40-59,3 Short/medium higher,0,Green
+Female,40-59,1 Primary,0,Green
+Male,60+,2 Upper secondary/VET,0,Green
+Male,40-59,4 Long higher (Master/PhD),0,Red
+Female,40-59,3 Short/medium higher,0,Red
+Female,60+,3 Short/medium higher,0,Red
+Male,60+,4 Long higher (Master/PhD),0,Red
+Female,60+,1 Primary,0,Red
+Female,20-39,1 Primary,0,Green
+Female,20-39,3 Short/medium higher,0,Green
+Female,20-39,2 Upper secondary/VET,1,Green
+Female,40-59,2 Upper secondary/VET,0,Red
+Female,20-39,3 Short/medium higher,1,Green
+Male,40-59,3 Short/medium higher,0,Green
+Male,40-59,2 Upper secondary/VET,1,Green
+Male,20-39,2 Upper secondary/VET,0,Green
+Female,40-59,1 Primary,0,Green
+Male,40-59,3 Short/medium higher,0,Red
+Female,60+,2 Upper secondary/VET,0,Green
+Female,20-39,1 Primary,0,Green
+Male,60+,2 Upper secondary/VET,0,Green
+Male,40-59,2 Upper secondary/VET,0,Green
+Male,40-59,4 Long higher (Master/PhD),1,Green
+Female,40-59,3 Short/medium higher,0,Red
+Male,40-59,4 Long higher (Master/PhD),1,Green
+Male,20-39,1 Primary,0,Green
+Male,40-59,4 Long higher (Master/PhD),0,Green
+Female,60+,3 Short/medium higher,0,Red
+Male,40-59,2 Upper secondary/VET,0,Red
+Male,60+,1 Primary,0,Green
+Female,40-59,2 Upper secondary/VET,0,Green
+Male,60+,1 Primary,1,Green
+Female,60+,2 Upper secondary/VET,0,Red
+Female,60+,4 Long higher (Master/PhD),0,Red
+Female,60+,2 Upper secondary/VET,0,Red
+Male,40-59,2 Upper secondary/VET,1,Green
+Male,40-59,4 Long higher (Master/PhD),1,Red
+Female,40-59,2 Upper secondary/VET,0,Green
+Male,20-39,1 Primary,1,Green
+Male,60+,4 Long higher (Master/PhD),0,Red
+Male,20-39,3 Short/medium higher,1,Green
+Female,40-59,2 Upper secondary/VET,0,Red
+Male,20-39,2 Upper secondary/VET,0,Green
+Male,60+,4 Long higher (Master/PhD),0,Red
+Male,40-59,1 Primary,0,Green
+Male,20-39,2 Upper secondary/VET,1,Green
+Male,60+,1 Primary,0,Red
+Female,40-59,3 Short/medium higher,0,Green
+Female,20-39,2 Upper secondary/VET,0,Green
+Female,20-39,3 Short/medium higher,1,Green
+Female,60+,2 Upper secondary/VET,0,Red
+Male,60+,4 Long higher (Master/PhD),0,Red
+Male,20-39,3 Short/medium higher,0,Green
+Female,40-59,2 Upper secondary/VET,1,Green
+Female,40-59,1 Primary,1,Green
+Female,20-39,1 Primary,0,Green
+Male,20-39,1 Primary,1,Green
+Female,40-59,3 Short/medium higher,0,Red
+Male,40-59,1 Primary,0,Red
+Female,40-59,2 Upper secondary/VET,0,Red
+Female,40-59,3 Short/medium higher,0,Red
+Female,60+,3 Short/medium higher,0,Red
+Female,40-59,2 Upper secondary/VET,0,Green
+Female,20-39,2 Upper secondary/VET,0,Green
+Female,60+,1 Primary,0,Green
+Male,60+,3 Short/medium higher,1,Red
+Male,20-39,4 Long higher (Master/PhD),0,Red
+Female,40-59,2 Upper secondary/VET,0,Red
+Female,40-59,3 Short/medium higher,0,Red
+Female,20-39,2 Upper secondary/VET,0,Green
+Female,40-59,2 Upper secondary/VET,0,Red
+Female,20-39,1 Primary,0,Red
+Male,40-59,4 Long higher (Master/PhD),1,Red
+Female,20-39,4 Long higher (Master/PhD),0,Red
+Male,40-59,2 Upper secondary/VET,1,Invalid vote
+Male,40-59,2 Upper secondary/VET,0,Green
+Male,20-39,2 Upper secondary/VET,0,Green
+Female,40-59,4 Long higher (Master/PhD),1,Red
+Male,40-59,1 Primary,0,Green
+Female,60+,1 Primary,0,Green
+Female,60+,4 Long higher (Master/PhD),0,Invalid vote
+Male,40-59,2 Upper secondary/VET,0,Green
+Male,60+,2 Upper secondary/VET,0,Green
+Female,20-39,1 Primary,1,Red
+Female,40-59,2 Upper secondary/VET,0,Green
+Female,20-39,3 Short/medium higher,0,Green
+Female,40-59,2 Upper secondary/VET,0,Green
+Male,20-39,4 Long higher (Master/PhD),0,Green
+Male,40-59,Not stated,0,Red
+Female,60+,2 Upper secondary/VET,1,Green
+Female,40-59,2 Upper secondary/VET,0,Green
+Male,40-59,1 Primary,0,Green
+Male,60+,3 Short/medium higher,0,Green
